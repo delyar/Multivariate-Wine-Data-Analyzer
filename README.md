@@ -9,7 +9,6 @@ Deployed at https://multivariate-data-analyzer.vercel.app
 
 ---
 
-This repository is based off of the skeleton code used in the Visual Analytics course at Oregon State University taught by Prof. Minsuk Kahng (https://minsuk.com).
 
 How to run:
 npm install
